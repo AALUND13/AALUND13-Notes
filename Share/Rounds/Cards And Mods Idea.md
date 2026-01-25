@@ -1,0 +1,82 @@
+## Mods Ideas:
+- [x] A mod that add more options for the sudden death mode in `Map Embigger`, like time the sudden death will trigger (Example:  45 seconds), and amount of player it will trigger
+- [x] A client sided mod for both `Infoholic`, and `Tabinfo` that add number subfixes to the stats for example `Damage: 1000000000` turn into `1.00 Billion`, may be a feature when you gold the `Shift` key it will show the `Scientific Notation` of the number
+- [ ] A card pack that add `Murder Drones` cards
+- [ ] A mod for `Rounds` that show a random "tip" every 5-10 seconds, this is show in the main menu and maybe even lobby menu
+## Cards Ideas:
+
+**Most Likely To Make:**
+- [x] A effect from a card when you block it set the position to teleport to, when you next time you block you get teleported to that position.
+- [x] A card called `Executioner`, Have `+30% Damage`, `+30% Gravity`, `-30% Movement Speed`, and have effect where the health is below their `30% Max Health` it instantly kill the player : Idea by `!!勹丹尺片回`
+- [x] A card that give you +1 `BlocksAtCDEnd`, When you regain your block, it triggers additional blocks based off your `BlocksAtCDEnd` stat, without using your blocks, Name idea: `Resurgence`
+- [x] How about a card that give you regen base off you "current" hp, not your max hp your current hp.
+- [x] A card that have 50% `ArmorPiercing`, and also do 3x the damage to armors might be called `Sabot Round` | [Messages](https://discord.com/channels/844974450927730738/845065790742331462/1383643723878895717)
+- [x] A card that give you a railgun, when fully change give you 2.5x the damage, and 2x the bullets speeds
+- [x] A curse card that called `Bind` that causes when the rounds started you can only see what arounds your players
+- [x] A card that when you get hit spawn ring that damage players that inside the ring
+- [x] A card that caused when you get a card you also get a corrupted version beside it if the rarity exist for the corrupted cards 
+- [x] A card that give you +3 picks, but give all enemies +1 picks
+- [x] A card called `Spiritual Shield` that prevent you of getting curses that is a rare or higher
+- [x] A card that give armor that have the `titan` effect only taking 20% the damage at the time
+- [x] A card that store damage and release the damage on block, Also give damage reduction until the store damage is full also have cooldown of 10 seconds.
+- [x] A curse card card that give you negative armor damage reduction.
+- [x] A class that base on "Percentage Damage" called `Reaper`. Might give 10% life steel and 10% scaling "Percentage Damage" , And `-80%` damage
+- [x] A card that convert your regen to armor regen only when you have full health, This card might be called `Restoration` : Idea by `Anarkey`
+- [x] A card that connect a line between current and last bullets, when a player get catch in the line they will take damage, The line will have like 5-10 meters range, Probably inspired from **ULTRAKILL** enemy `Schism` projectiles
+- [x] Upgradeable Armor Class, Might be called `Power Armor`
+	- [x] Entry class card
+	- [x] A upgrade to add damage reduction card for the armor
+	- [x] A upgrade to give more armor health, might have to be a armor multiplier to scale kind of the same of the health
+	- [x] A upgrade to remove the `CanArmorPierce` tag
+	- [x] A upgrade that cause a overpower like effect every time the armor get hit, similar to `Aftershock`
+- [x] A card that turn 50% your health into default armor, work with other armor if you have any other armor but the armor health given by this card are split between the armors | Waiting for name suggestion/ideas come up
+- [x] A card that give you bullets that when it hit a player while they blocking they get stun for 2 seconds, and cancel the blockings
+- [x] A curse that disable decay time
+- [x] Make a curse that swap the `Fire`, and `Block` key bind
+- [x] A curse card that cause your screen have this weird effect in this image [[WeirdEffect.png]], might be called `Vibewave` or `Loopy` | I found with out by accidentally use the wrong material for retro vision post processing
+- [x] **The Deal Of The Devil**: When you pick this card it allow you to pick from between 3 different `Devil` cards, **ALL** the devil card have a strong upside, but also always have a strong downside
+	- [x] **Curse of Greed**: guaranteed at least one `Legendary` (Or higher) card in every draw, but also reduce the amount of cards to draw from to 3.
+	- [x] **Corrupted Growth**: Give +5% `damage`, and `health` per cards you have, but also reduce your `Reload Time`, `Block Cooldown` by `+4%` per cards
+	- [x] **Hellfire Speed**: Give `+400% Attack Speed`, and `-60% Reload Time`, but every time you shoot give you `-2.5% Attack Speed`, and `+2.5% Reload Time`
+	- [x] **Devil Soul**: Give `+1 Extra Life` but every time you revive reduce your `Health`, and `Damage` by 35%
+	- [x] **Hell Guard**: Allow you to block every 0.75s, but your block invulnerability is gone
+- [x] **Dreadful Burst**: A card for the `Soulstreak` class `Soul Drain` Subclass, Effect: a ability to store up to 10 tick of damage of `Soul Drain` that gain once you have reach 20 ticks you are able to use the ability, that release the store damage to nearby enemies
+- [ ] A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
+- [ ] Make a card that make it when you damage a player really close you get a lot of heal, closer you get more heal you get, blood effect may also happen when you damage player | Also inspired from the game **ULTRAKILL**
+- [ ] A "normal" card that add flat damage example `+10 Damage`
+- [ ] A card that reduce the percentage damage do to you
+- [ ] A card that only appear when someone have a inf blocks build, witch give you unlockable bullets
+- [ ] A card that might be called `Frozen Ammo`, if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
+- [ ] A card that change the rarity if a random card to a **Trinket** 
+- [ ] A cards that add a effect to you that similar to **GD** spider jumping, instantly jump to ceiling and floor
+    
+**Somewhat Likely To Make:**
+- [x] Damage reduction card for armors : Idea by `Anarkey`.
+- [x] A upgrade card called `Overchange` for the `Railgun` that allow the railgun to use all the charge doing a lot more damage and have a lot more bullets speed it activate when you press a trigger (I might have it on keypress like `T` or have it when you block), this will prevent you gun from firing until you have full change
+- [x] A curse card that life link with someone, so if that player died after 0.5 second you also died | This going need a card condition that prevent the card of spawning with less than 2 enemy players
+- [ ] A `Soulstreak` card, when you block it spawn a circle that will start counting down, once the count down reach 0 it will kill all players that inside the circle, It may have a `doug` sound effect every 5 seconds and have clock hands
+- [ ] A card that give your bullets a poison trail, when a player go in the trail the bullets made they will start taking DOT damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
+- [ ] A "unique" rarity card that swap all rarities rarity, Like common because just as divine, and divine become just as common as common
+- [ ] A card that only allow you pick cards you already have, kind of a reverse envy
+- [ ] A card that give you +20 health, when your heal is going heal you more your max health some that heal go to "overheal" armor
+- [ ] A card that converted all your "Corrupted Card" into normal cards. (Similar than `Reforge Integrity`)
+- [ ] A drones base class, That give you `Drones` (The amount can be like 1), the `Drone` go to the closest players and shoot at them, The drone might have health too might start off 100-500 health, all your `Drones` will died once you died, and once you choose the class, You can choose from multiple sub classes, and some normal class card, More info about this idea is in [[Drone Class Idea]]
+- [ ] A Unique card that improve the chances for more rare card. (Like the `Fool` card but without the down side of the `Fool`)
+- [ ] A card that give you random good effect, But it also give a random bad effect.
+- [ ] A card a lifesteel like effect that when you hit a player give you temp regen  : Idea by `Anarkey`
+- [ ] Resilience: Taking damage regenerates 25% of the damage done to you over the next 4 seconds : Idea by `Anarkey`
+- [ ] Healbane: Bullets inflict a debuff that reduces the enemies healing -15% received for 4 seconds. (damage reduced by 25%) (Softcap should be 75% on heal reduction) : Idea by `Anarkey`
+- [ ] Restorative Shot: When you hit an enemy with your bullet regenerates 1 ammo, removes gun overheat, and heals for 1.5% hp (dilutes with high attack speed lowest would be 0.2% max hp) +0.5 reload time.  : Idea by `Anarkey`
+- [ ] Overheal: When you lifesteal more hp then you have, gain as an overheal (some amount of cap) barrier (Maybe additional health bar) which will slowly decay after not lifestealing : Idea by `Anarkey`
+    
+**Least Likely To Make:**
+- [ ] A armor card that dealt 50% damage on incoming damage.
+- [ ] A card that give you 4 tentacles they grab on objects, And when players neat by the tentacles will attack the players
+- [ ] A card that give your **Bullet** pathfinding.
+- [ ] A armor card that give `Decaying Armor` armor.
+	- The armor start with really high `Max Armor Health` (Example **10,000** or **10x** of player max hp) that decay to 0 over 30 seconds, Witch it can be armor pierce.
+- [ ] A armor card that ricochets off it (Example there 50% chance it ricochets off the armor) : Idea by `elfinboy`.
+- [ ] gain 50 armor that decays over 5 seconds after blocking : Idea by `elfinboy`.
+- [ ] A card that give you a effect to give you the 50% chance to not take damage
+- [ ] A curse that split the player screen in half.
+- [ ] A card that give you effect when your bullets land it create a plant like trap that pull players in and slowly damage them 
