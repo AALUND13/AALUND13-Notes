@@ -41,7 +41,6 @@
 	- [x] **Devil Soul**: Give `+1 Extra Life` but every time you revive reduce your `Health`, and `Damage` by 35%
 	- [x] **Hell Guard**: Allow you to block every 0.75s, but your block invulnerability is gone
 - [x] **Dreadful Burst**: A card for the `Soulstreak` class `Soul Drain` Subclass, Effect: a ability to store up to 10 tick of damage of `Soul Drain` that gain once you have reach 20 ticks you are able to use the ability, that release the store damage to nearby enemies
-- [ ] A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
 - [ ] Make a card that make it when you damage a player really close you get a lot of heal, closer you get more heal you get, blood effect may also happen when you damage player | Also inspired from the game **ULTRAKILL**
 - [ ] A "normal" card that add flat damage example `+10 Damage`
 - [ ] A card that reduce the percentage damage do to you
@@ -55,6 +54,7 @@
 - [x] A upgrade card called `Overchange` for the `Railgun` that allow the railgun to use all the charge doing a lot more damage and have a lot more bullets speed it activate when you press a trigger (I might have it on keypress like `T` or have it when you block), this will prevent you gun from firing until you have full change
 - [x] A curse card that life link with someone, so if that player died after 0.5 second you also died | This going need a card condition that prevent the card of spawning with less than 2 enemy players
 - [ ] A `Soulstreak` card, when you block it spawn a circle that will start counting down, once the count down reach 0 it will kill all players that inside the circle, It may have a `doug` sound effect every 5 seconds and have clock hands
+- [ ] A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
 - [ ] A card that give your bullets a poison trail, when a player go in the trail the bullets made they will start taking DOT damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
 - [ ] A "unique" rarity card that swap all rarities rarity, Like common because just as divine, and divine become just as common as common
 - [ ] A card that only allow you pick cards you already have, kind of a reverse envy
