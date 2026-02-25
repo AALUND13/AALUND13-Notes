@@ -1,3 +1,2 @@
-## Probably A bugs:
-- Binding Swap have a small delay
-- Binding Swap not get reset remove
+## Know Bugs:
+- [AALUND13 Classes Cards](https://thunderstore.io/c/rounds/p/AALUND13/AALUND13_Classes_Cards/) will break without [AALUND13 Armors Cards](https://thunderstore.io/c/rounds/p/AALUND13/AALUND13_Armors_Cards/) being install
