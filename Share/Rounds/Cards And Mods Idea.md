@@ -3,6 +3,7 @@
 - [x] A client sided mod for both `Infoholic`, and `Tabinfo` that add number subfixes to the stats for example `Damage: 1000000000` turn into `1.00 Billion`, may be a feature when you gold the `Shift` key it will show the `Scientific Notation` of the number
 - [ ] A card pack that add `Murder Drones` cards
 - [ ] A mod for `Rounds` that show a random "tip" every 5-10 seconds, this is show in the main menu and maybe even lobby menu
+- [ ] **CardDataEdit**: A combine version of Rarity Toggle and Theme Toggle, (And `Root` also suggested to be able toggle cards art too, [I might add that too]) which will have a rework `Rarity Toggle` and `Theme Toggle` UI, and might be able detach a card from it [**class**](https://thunderstore.io/c/rounds/p/Root/Classes_Manager_Reborn/)
 ## Cards Ideas:
 
 **Most Likely To Make:**
