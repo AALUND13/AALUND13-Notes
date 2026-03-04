@@ -47,7 +47,7 @@
 **Completed Rework Suggestion:**
 - A rework to `Restoration`, instead of **Regen** can heal your **Armors**, any kind of **Healing** can heal your **Armors** once your health is full
 - A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
-      
+  
 **Name Cards Suggestion:**
 - [ ] **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
