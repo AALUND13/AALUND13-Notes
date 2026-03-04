@@ -55,36 +55,36 @@
 - [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
 
 **Unnamed Cards Suggestion:** 
-- [ ] A "normal" card that add flat damage example `+10 Damage`
-- [ ] Make a card that make it when you damage a player really close you get a lot of heal, closer you get more heal you get, blood effect may also happen when you damage player | Also inspired from the game **ULTRAKILL**
-- [ ] A card that change the rarity if a random card to a **Trinket** 
-- [ ] A card that reduce the percentage damage do to you
-- [ ] A cards that add a effect to you that similar to **GD** spider jumping, instantly jump to ceiling and floor
-- [ ] A `Soulstreak` card, when you block it spawn a circle that will start counting down, once the count down reach 0 it will kill all players that inside the circle, It may have a `doug` sound effect every 5 seconds and have clock hands
-- [ ] A "unique" rarity card that swap all rarities rarity, Like common because just as divine, and divine become just as common as common
-- [ ] A card that only allow you pick cards you already have, kind of a reverse envy
-- [ ] A card that give you +20 health, when your heal is going heal you more your max health some that heal go to "overheal" armor
-- [ ] A card that converted all your "Corrupted Card" into normal cards. (Similar than `Reforge Integrity`)
-- [ ] A drones base class, That give you `Drones` (The amount can be like 1), the `Drone` go to the closest players and shoot at them, The drone might have health too might start off 100-500 health, all your `Drones` will died once you died, and once you choose the class, You can choose from multiple sub classes, and some normal class card, More info about this idea is in [[Drone Class Idea]]
-- [ ] A Unique card that improve the chances for more rare card. (Like the `Fool` card but without the down side of the `Fool`)
-- [ ] A card that give you random good effect, But it also give a random bad effect.
+- A "normal" card that add flat damage example `+10 Damage`
+- Make a card that make it when you damage a player really close you get a lot of heal, closer you get more heal you get, blood effect may also happen when you damage player | Also inspired from the game **ULTRAKILL**
+- A card that change the rarity if a random card to a **Trinket** 
+- A card that reduce the percentage damage do to you
+- A cards that add a effect to you that similar to **GD** spider jumping, instantly jump to ceiling and floor
+- A `Soulstreak` card, when you block it spawn a circle that will start counting down, once the count down reach 0 it will kill all players that inside the circle, It may have a `doug` sound effect every 5 seconds and have clock hands
+- A "unique" rarity card that swap all rarities rarity, Like common because just as divine, and divine become just as common as common
+- A card that only allow you pick cards you already have, kind of a reverse envy
+- A card that give you +20 health, when your heal is going heal you more your max health some that heal go to "overheal" armor
+- A card that converted all your "Corrupted Card" into normal cards. (Similar than `Reforge Integrity`)
+- A drones base class, That give you `Drones` (The amount can be like 1), the `Drone` go to the closest players and shoot at them, The drone might have health too might start off 100-500 health, all your `Drones` will died once you died, and once you choose the class, You can choose from multiple sub classes, and some normal class card, More info about this idea is in [[Drone Class Idea]]
+- A Unique card that improve the chances for more rare card. (Like the `Fool` card but without the down side of the `Fool`)
+- A card that give you random good effect, But it also give a random bad effect.
       
-- [ ] A armor card that dealt 50% damage on incoming damage.
-- [ ] A card that give you 4 tentacles they grab on objects, And when players neat by the tentacles will attack the players
-- [ ] A card that give your **Bullet** pathfinding.
-- [ ] A armor card that give `Decaying Armor` armor.
+- A armor card that dealt 50% damage on incoming damage.
+- A card that give you 4 tentacles they grab on objects, And when players neat by the tentacles will attack the players
+- A card that give your **Bullet** pathfinding.
+- A armor card that give `Decaying Armor` armor.
 	- The armor start with really high `Max Armor Health` (Example **10,000** or **10x** of player max hp) that decay to 0 over 30 seconds, Witch it can be armor pierce.
-- [ ] A card that give you a effect to give you the 50% chance to not take damage
-- [ ] A curse that split the player screen in half.
-- [ ] A card that only appear when someone have a inf blocks build, witch give you unlockable bullets
-- [ ] A card that give you effect when your bullets land it create a plant like trap that pull players in and slowly damage them 
+- A card that give you a effect to give you the 50% chance to not take damage
+- A curse that split the player screen in half.
+- A card that only appear when someone have a inf blocks build, witch give you unlockable bullets
+- A card that give you effect when your bullets land it create a plant like trap that pull players in and slowly damage them 
 	
-- [ ] A card a lifesteel like effect that when you hit a player give you temp regen  : Idea by `Anarkey`
-- [ ] Resilience: Taking damage regenerates 25% of the damage done to you over the next 4 seconds : Idea by `Anarkey`
-- [ ] Healbane: Bullets inflict a debuff that reduces the enemies healing -15% received for 4 seconds. (damage reduced by 25%) (Softcap should be 75% on heal reduction) : Idea by `Anarkey`
-- [ ] Restorative Shot: When you hit an enemy with your bullet regenerates 1 ammo, removes gun overheat, and heals for 1.5% hp (dilutes with high attack speed lowest would be 0.2% max hp) +0.5 reload time.  : Idea by `Anarkey`
-- [ ] Overheal: When you lifesteal more hp then you have, gain as an overheal (some amount of cap) barrier (Maybe additional health bar) which will slowly decay after not lifestealing : Idea by `Anarkey`
+- A card a lifesteel like effect that when you hit a player give you temp regen  : Idea by `Anarkey`
+- Resilience: Taking damage regenerates 25% of the damage done to you over the next 4 seconds : Idea by `Anarkey`
+- Healbane: Bullets inflict a debuff that reduces the enemies healing -15% received for 4 seconds. (damage reduced by 25%) (Softcap should be 75% on heal reduction) : Idea by `Anarkey`
+- Restorative Shot: When you hit an enemy with your bullet regenerates 1 ammo, removes gun overheat, and heals for 1.5% hp (dilutes with high attack speed lowest would be 0.2% max hp) +0.5 reload time.  : Idea by `Anarkey`
+- Overheal: When you lifesteal more hp then you have, gain as an overheal (some amount of cap) barrier (Maybe additional health bar) which will slowly decay after not lifestealing : Idea by `Anarkey`
       
-- [ ] A armor card that ricochets off it (Example there 50% chance it ricochets off the armor) : Idea by `elfinboy`.
-- [ ] gain 50 armor that decays over 5 seconds after blocking : Idea by `elfinboy`.
+- A armor card that ricochets off it (Example there 50% chance it ricochets off the armor) : Idea by `elfinboy`.
+- gain 50 armor that decays over 5 seconds after blocking : Idea by `elfinboy`.
       
