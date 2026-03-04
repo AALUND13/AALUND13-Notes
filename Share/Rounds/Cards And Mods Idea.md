@@ -5,34 +5,29 @@
 - [ ] A mod for `Rounds` that show a random "tip" every 5-10 seconds, this is show in the main menu and maybe even lobby menu
 - [ ] **CardDataEdit**: A combine version of Rarity Toggle and Theme Toggle, (And `Root` also suggested to be able toggle cards art too, [I might add that too]) which will have a rework `Rarity Toggle` and `Theme Toggle` UI, and might be able detach a card from it [**class**](https://thunderstore.io/c/rounds/p/Root/Classes_Manager_Reborn/)
 ## Cards Ideas:
-- [x] A effect from a card when you block it set the position to teleport to, when you next time you block you get teleported to that position.
-- [x] A card called `Executioner`, Have `+30% Damage`, `+30% Gravity`, `-30% Movement Speed`, and have effect where the health is below their `30% Max Health` it instantly kill the player : Idea by `!!勹丹尺片回`
-- [x] A card that give you +1 `BlocksAtCDEnd`, When you regain your block, it triggers additional blocks based off your `BlocksAtCDEnd` stat, without using your blocks, Name idea: `Resurgence`
-- [x] How about a card that give you regen base off you "current" hp, not your max hp your current hp.
-- [x] A card that have 50% `ArmorPiercing`, and also do 3x the damage to armors might be called `Sabot Round` | [Messages](https://discord.com/channels/844974450927730738/845065790742331462/1383643723878895717)
-- [x] A card that give you a railgun, when fully change give you 2.5x the damage, and 2x the bullets speeds
-- [x] A curse card that called `Bind` that causes when the rounds started you can only see what arounds your players
-- [x] A card that when you get hit spawn ring that damage players that inside the ring
-- [x] A card that caused when you get a card you also get a corrupted version beside it if the rarity exist for the corrupted cards 
-- [x] A card that give you +3 picks, but give all enemies +1 picks
-- [x] A card called `Spiritual Shield` that prevent you of getting curses that is a rare or higher
-- [x] A card that give armor that have the `titan` effect only taking 20% the damage at the time
-- [x] A card that store damage and release the damage on block, Also give damage reduction until the store damage is full also have cooldown of 10 seconds.
-- [x] A curse card card that give you negative armor damage reduction.
-- [x] A class that base on "Percentage Damage" called `Reaper`. Might give 10% life steel and 10% scaling "Percentage Damage" , And `-80%` damage
-- [x] A card that convert your regen to armor regen only when you have full health, This card might be called `Restoration` : Idea by `Anarkey`
-- [x] A card that connect a line between current and last bullets, when a player get catch in the line they will take damage, The line will have like 5-10 meters range, Probably inspired from **ULTRAKILL** enemy `Schism` projectiles
-- [x] Upgradeable Armor Class, Might be called `Power Armor`
-	- [x] Entry class card
-	- [x] A upgrade to add damage reduction card for the armor
-	- [x] A upgrade to give more armor health, might have to be a armor multiplier to scale kind of the same of the health
-	- [x] A upgrade to remove the `CanArmorPierce` tag
-	- [x] A upgrade that cause a overpower like effect every time the armor get hit, similar to `Aftershock`
-- [x] A card that turn 50% your health into default armor, work with other armor if you have any other armor but the armor health given by this card are split between the armors | Waiting for name suggestion/ideas come up
-- [x] A card that give you bullets that when it hit a player while they blocking they get stun for 2 seconds, and cancel the blockings
-- [x] A curse that disable decay time
-- [x] Make a curse that swap the `Fire`, and `Block` key bind
-- [x] A curse card that cause your screen have this weird effect in this image [[WeirdEffect.png]], might be called `Vibewave` or `Loopy` | I found with out by accidentally use the wrong material for retro vision post processing
+- [x] **Rollback:** A effect from a card when you block it set the position to teleport to, when you next time you block you get teleported to that position.
+- [x] **Executioner:** Have `+30% Damage`, `+30% Gravity`, `-30% Movement Speed`, and have effect where the health is below their `30% Max Health` it instantly kill the player : Idea by `!!勹丹尺片回`
+- [x] **Resurgence:** A card that give you +1 `BlocksAtCDEnd`, When you regain your block, it triggers additional blocks based off your `BlocksAtCDEnd` stat, without using your blocks.
+- [x] **Leaf Skin:** How about a card that give you regen base off you "current" hp, not your max hp your current hp.
+- [x] **Sabot Round:** A card that have 50% `ArmorPiercing`, and also do 3x the damage to armors
+- [x] **Railgun:** When fully change give you 2.5x the damage, and 2x the bullets speeds
+- [x] **Blindness:** That causes when the rounds started you can only see what arounds your players
+- [x] **Aftershock:** A card that when you get hit spawn ring that damage players that inside the ring
+- [x] **Corruption Reflection:** A card that caused when you get a card you also get a corrupted version beside it if the rarity exist for the corrupted cards 
+- [x] **Pick Party:** A card that give you +2 picks, but give all enemies +1 picks
+- [x] **Spiritual Shield:** Prevent you of getting curses that is a rare or higher
+- [x] **Titanium Armor:** A card that give armor that have the `titan` effect only taking 20% the damage at the time
+- [x] **Damage Storage:** A card that store damage and release the damage on block, Also give damage reduction until the store damage is full also have cooldown of 10 seconds.
+- [x] **Fracture Armor:** A curse card card that give you negative armor damage reduction.
+- [x] **Reaper Class:** A class that base on "Percentage Damage".
+- [x] **Restoration:** A card that convert your regen to armor regen only when you have full health : Idea by `Anarkey`
+- [x] **Chain Bullet:** A card that connect a line between current and last bullets, when a player get catch in the line they will take damage, The line will have like 5-10 meters range : Slightly inspired from **ULTRAKILL** enemy `Schism` projectiles
+- [x] **Exo Armor Class:** Upgradeable Armor Class
+- [x] **Nanite Reallocation:** A card that turn 50% your health into default armor, work with other armor if you have any other armor but the armor health given by this card are split between the armors
+- [x] **Stunblock Bullets:** A card that give you bullets that when it hit a player while they blocking they get stun for 2 seconds, and cancel the blockings : Idea by `Loopy`
+- [x] **Purifying Body:** A curse that disable decay time
+- [x] **Binding Swap:** Make a curse that swap the `Fire`, and `Block` key bind
+- [x] **Loopy:** A curse card that cause your screen have this weird effect in this image [[WeirdEffect.png]]
 - [x] **The Deal Of The Devil**: When you pick this card it allow you to pick from between 3 different `Devil` cards, **ALL** the devil card have a strong upside, but also always have a strong downside
 	- [x] **Curse of Greed**: guaranteed at least one `Legendary` (Or higher) card in every draw, but also reduce the amount of cards to draw from to 3.
 	- [x] **Corrupted Growth**: Give +5% `damage`, and `health` per cards you have, but also reduce your `Reload Time`, `Block Cooldown` by `+4%` per cards
@@ -40,10 +35,10 @@
 	- [x] **Devil Soul**: Give `+1 Extra Life` but every time you revive reduce your `Health`, and `Damage` by 35%
 	- [x] **Hell Guard**: Allow you to block every 0.75s, but your block invulnerability is gone
 - [x] **Dreadful Burst**: A card for the `Soulstreak` class `Soul Drain` Subclass, Effect: a ability to store up to 10 tick of damage of `Soul Drain` that gain once you have reach 20 ticks you are able to use the ability, that release the store damage to nearby enemies
-- [x] A curse card that life link with someone, so if that player died after 0.5 second you also died | This going need a card condition that prevent the card of spawning with less than 2 enemy players
-- [x] Damage reduction card for armors : Idea by `Anarkey`.
-- [x] A upgrade card called `Overchange` for the `Railgun` that allow the railgun to use all the charge doing a lot more damage and have a lot more bullets speed it activate when you press a trigger (I might have it on keypress like `T` or have it when you block), this will prevent you gun from firing until you have full change
-- [x] A card that give your bullets a toxic trail, when a player go in the trail the bullets made they will start taking damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
+- [x] **Life Link:** A curse card that life link with someone, so if that player died after 0.5 second you also died | This going need a card condition that prevent the card of spawning with less than 2 enemy players
+- [x] **Reinforced Plating:** Damage reduction card for armors : Idea by `Anarkey`.
+- [x] **Overchange**: Upgrade for the `Railgun` that allow the railgun to use all the charge doing a lot more damage and have a lot more bullets speed it activate when you press a trigger (I might have it on keypress like `T` or have it when you block), this will prevent you gun from firing until you have full change
+- [x] **Toxic Trail** A card that give your bullets a toxic trail, when a player go in the trail the bullets made they will start taking damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
       
       
       
@@ -53,11 +48,15 @@
 - [x] **Cursed Knowledge:** Give you **+3** card draws, but the extra **3** cards draw will be "Cursed Card Draw" which will give you a "Curse" if pick from, this card going to be the "Exotic" rarity
 - [x] **Quick Dash:** Simply double press on any movement keys to dash in a direction, start off with **1** dash, regain dashes by landing on the ground
 - [x] **Sharpen Bullet:** Make bullets do **Damage Over Time** base off the percentage of the projectile damage
-- [ ] **Frostbound Bullet:** Common card that causes ground to have a "ice" like effect for a temporary about if time, also slow players when hit by the bullet 
+      
+**Name Cards Suggestion:**
+- [ ] **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
 - [ ] **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
+- [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
+
+**Unnamed Cards Suggestion:** 
 - [ ] A "normal" card that add flat damage example `+10 Damage`
-- [ ] A card that might be called `Frozen Ammo`, if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
 - [ ] Make a card that make it when you damage a player really close you get a lot of heal, closer you get more heal you get, blood effect may also happen when you damage player | Also inspired from the game **ULTRAKILL**
 - [ ] A card that change the rarity if a random card to a **Trinket** 
 - [ ] A card that reduce the percentage damage do to you
