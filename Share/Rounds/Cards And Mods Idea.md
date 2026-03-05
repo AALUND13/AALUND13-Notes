@@ -53,6 +53,7 @@
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
 - [ ] **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
 - [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
+- [ ] **Overheal:** Give you **+20%** health when you block, when you heal above your **Max Health** the overheal will go into a another "Heath Bar" with the same about of your **Max Health**
 
 **Unnamed Cards Suggestion:** 
 - A "normal" card that add flat damage example `+10 Damage`
@@ -63,7 +64,6 @@
 - A `Soulstreak` card, when you block it spawn a circle that will start counting down, once the count down reach 0 it will kill all players that inside the circle, It may have a `doug` sound effect every 5 seconds and have clock hands
 - A "unique" rarity card that swap all rarities rarity, Like common because just as divine, and divine become just as common as common
 - A card that only allow you pick cards you already have, kind of a reverse envy
-- A card that give you +20 health, when your heal is going heal you more your max health some that heal go to "overheal" armor
 - A card that converted all your "Corrupted Card" into normal cards. (Similar than `Reforge Integrity`)
 - A drones base class, That give you `Drones` (The amount can be like 1), the `Drone` go to the closest players and shoot at them, The drone might have health too might start off 100-500 health, all your `Drones` will died once you died, and once you choose the class, You can choose from multiple sub classes, and some normal class card, More info about this idea is in [[Drone Class Idea]]
 - A Unique card that improve the chances for more rare card. (Like the `Fool` card but without the down side of the `Fool`)
