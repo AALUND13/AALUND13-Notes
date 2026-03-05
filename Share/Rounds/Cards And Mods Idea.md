@@ -80,10 +80,10 @@
 
 **`Anarkey` Cards Suggestion:**
 - A card a lifesteel like effect that when you hit a player give you temp regen  : Idea by `Anarkey`
-- Resilience: Taking damage regenerates 25% of the damage done to you over the next 4 seconds : Idea by `Anarkey`
-- Healbane: Bullets inflict a debuff that reduces the enemies healing -15% received for 4 seconds. (damage reduced by 25%) (Softcap should be 75% on heal reduction) : Idea by `Anarkey`
-- Restorative Shot: When you hit an enemy with your bullet regenerates 1 ammo, removes gun overheat, and heals for 1.5% hp (dilutes with high attack speed lowest would be 0.2% max hp) +0.5 reload time.  : Idea by `Anarkey`
-- Overheal: When you lifesteal more hp then you have, gain as an overheal (some amount of cap) barrier (Maybe additional health bar) which will slowly decay after not lifestealing : Idea by `Anarkey`
+- **Resilience:** Taking damage regenerates 25% of the damage done to you over the next 4 seconds : Idea by `Anarkey`
+- **Healbane:** Bullets inflict a debuff that reduces the enemies healing -15% received for 4 seconds. (damage reduced by 25%) (Softcap should be 75% on heal reduction) : Idea by `Anarkey`
+- **Restorative Shot:** When you hit an enemy with your bullet regenerates 1 ammo, removes gun overheat, and heals for 1.5% hp (dilutes with high attack speed lowest would be 0.2% max hp) +0.5 reload time.  : Idea by `Anarkey`
+- **Overheal:** When you lifesteal more hp then you have, gain as an overheal (some amount of cap) barrier (Maybe additional health bar) which will slowly decay after not lifestealing : Idea by `Anarkey`
 
 **`Elfinboy` Cards Suggestion:**
 - A armor card that ricochets off it (Example there 50% chance it ricochets off the armor) : Idea by `elfinboy`.
