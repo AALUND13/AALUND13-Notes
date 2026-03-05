@@ -54,6 +54,7 @@
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
 - [ ] **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
 - [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
+- [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity
 
 **Unnamed Cards Suggestion:** 
 - A "normal" card that add flat damage example `+10 Damage`
