@@ -74,7 +74,6 @@
 - A card that give your **Bullet** pathfinding.
 - A armor card that give `Decaying Armor` armor.
 	- The armor start with really high `Max Armor Health` (Example **10,000** or **10x** of player max hp) that decay to 0 over 30 seconds, Witch it can be armor pierce.
-- A card that give you a effect to give you the 50% chance to not take damage
 - A curse that split the player screen in half.
 - A card that only appear when someone have a inf blocks build, witch give you unlockable bullets
 - A card that give you effect when your bullets land it create a plant like trap that pull players in and slowly damage them 
