@@ -43,18 +43,18 @@
 - **Quick Dash:** Simply double press on any movement keys to dash in a direction, start off with **1** dash, regain dashes by landing on the ground
 - **Sharpen Bullet:** Make bullets do **Damage Over Time** base off the percentage of the projectile damage
 - **Toxic Trail** A card that give your bullets a toxic trail, when a player go in the trail the bullets made they will start taking damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
+- **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
   
 **Completed Rework Suggestion:**
 - A rework to `Restoration`, instead of **Regen** can heal your **Armors**, any kind of **Healing** can heal your **Armors** once your health is full
 - A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
   
 **Name Cards Suggestion:**
-- [ ] **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
-- [ ] **Bloated Block:** Give you **+20%** health when you block, when you heal above your **Max Health** the overheal will go into a another "Heath Bar" with the same about of your **Max Health**
-- [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
-- [ ] **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
-- [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
-- [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
+- **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
+- **Bloated Block:** Give you **+20%** health when you block, when you heal above your **Max Health** the overheal will go into a another "Heath Bar" with the same about of your **Max Health**
+- **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
+- **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
+- **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
 
 **Unnamed Cards Suggestion:** 
 - A "normal" card that add flat damage example `+10 Damage`
