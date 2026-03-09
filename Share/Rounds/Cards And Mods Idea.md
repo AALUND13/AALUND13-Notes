@@ -1,6 +1,7 @@
 ## Mods Ideas:
 - [x] **More Sudden Death Options:** A mod that add more options for the sudden death mode in `Map Embigger`, like time the sudden death will trigger (Example:  45 seconds), and amount of player it will trigger
 - [x] **Readable Numbers:** A client sided mod for both `Infoholic`, and `Tabinfo` that add number subfixes to the stats for example `Damage: 1000000000` turn into `1.00 Billion`, may be a feature when you gold the `Shift` key it will show the `Scientific Notation` of the number
+- [ ] **UI Handler:** A mod for handling **UI Element**, mod will have **Unity Components** like **Resizable Window**, and **Draggable Window** which will be customizable like min/max size, and will have a menu that allow you to **Move**. and **Resize** UI components before a match even start
 - [ ] **ROUNDS BOPL:** A mod that add basically all the [BOPL Abilities](https://bopl-battle.fandom.com/wiki/Abilities) to the game **ROUNDS**
 - [ ] **CardDataEdit**: A combine version of Rarity Toggle and Theme Toggle, (And `Root` also suggested to be able toggle cards art too, [I might add that too]) which will have a rework `Rarity Toggle` and `Theme Toggle` UI, and might be able detach a card from it [**class**](https://thunderstore.io/c/rounds/p/Root/Classes_Manager_Reborn/)
 - [ ] **Tips:** A mod for `Rounds` that show a random "tip" every 5-10 seconds, this is show in the main menu and maybe even lobby menu
@@ -55,6 +56,7 @@
 - **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default 
 - **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
 - **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
+- **Heavy Bullets:** More bullet gravity gives more damage minimum multiplier is **1**, also give **+50% Damage**, and **+150 Bullet Gravity**
 
 **Unnamed Cards Suggestion:** 
 - A "normal" card that add flat damage example `+10 Damage`
