@@ -49,6 +49,7 @@
 - [x] **Sharpen Bullet:** Make bullets do **Damage Over Time** base off the percentage of the projectile damage
 - [x] **Toxic Trail** A card that give your bullets a toxic trail, when a player go in the trail the bullets made they will start taking damage from the trail | This would be hard to do because of syncing the trail and if there a lot of trail bullets may causes lags
 - [x] **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
+- [x] **Tungsten Bullets:** More bullet gravity gives more damage minimum multiplier is **1**, also give **+50% Damage** and **+150% Bullet Gravity** this card will be **Uncommon** rarity
 
 **Completed Rework Suggestion:**
 
@@ -56,9 +57,7 @@
 - [x] A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
 
 **Name Cards Suggestion:**
-
 - [ ] **Heavy Shots:** Give **+50% Damage** and **+30% Bullet Gravity** this card will be **Common** rarity
-- [ ] **Heavy Bullets:** More bullet gravity gives more damage minimum multiplier is **1**, also give **+50% Damage** and **+150% Bullet Gravity** this card will be **Uncommon** rarity
 - [ ] **Berserk:** Once damage below **50%** survive the shot and activate **Berserk Mode** for **10 seconds** which gives: **+100% Damage**, **+50% Movement Speed**, **+5% Regen**
 - [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
 - [ ] **Reinforced Skin:** A card that reduce the percentage damage do to you
