@@ -62,7 +62,7 @@
 - [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
 - [ ] **Reinforced Skin:** A card that reduce the percentage damage do to you
 - [ ] **Lance:** On block fire a beam in front of your gun that deals **30%** of your gun damage to players within **10 meters**
-- [ ] **Bloated Block:** Give you **+20%** health when you block, when you heal above your **Max Health** the Overheal will go into a another "Heath Bar" with the same about of your **Max Health**
+- [ ] **Bloated Block:** Give you **+20%** health when you block, when you heal above your **Max Health** the Overheal will go into a another "Heath Bar" with the same about of your **Max Health**, this ability will have a cooldown of 0.5 seconds
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default
 - [ ] **Frozen Ammo:** if the bullets hit the ceiling it will create a icicle, once player go under it the icicle will fall and if they hit the player it will hurt the player
 - [ ] **Devil Knowledge:** Prevent you of getting curses that not from AAC devil, instead you get "Devil" curses, and getting a card have a chance to give you one of these "Devil" curses which will have random debuff, this mainly because a lot of curses are really bad, Example: Root, WWM, AAC. etc.
