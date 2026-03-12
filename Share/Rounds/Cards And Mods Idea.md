@@ -57,7 +57,7 @@
 
 **Name Cards Suggestion:**
 
-- [ ] **Heavy Shots:** Give **+50% Damage** and **+50% Bullet Gravity** this card will be **Common** rarity
+- [ ] **Heavy Shots:** Give **+50% Damage** and **+30% Bullet Gravity** this card will be **Common** rarity
 - [ ] **Heavy Bullets:** More bullet gravity gives more damage minimum multiplier is **1**, also give **+50% Damage** and **+150% Bullet Gravity** this card will be **Uncommon** rarity
 - [ ] **Berserk:** Once damage below **50%** survive the shot and activate **Berserk Mode** for **10 seconds** which gives: **+100% Damage**, **+50% Movement Speed**, **+5% Regen**
 - [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
