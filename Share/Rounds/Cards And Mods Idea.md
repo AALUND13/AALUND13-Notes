@@ -4,9 +4,9 @@
 - [x] **Readable Numbers:** A client sided mod for both `Infoholic`, and `Tabinfo` that add number subfixes to the stats for example `Damage: 1000000000` turn into `1.00 Billion`, may be a feature when you gold the `Shift` key it will show the `Scientific Notation` of the number
 - [ ] **UI Handler:** A mod for handling **UI Element**, mod will have **Unity Components** like **Resizable Window**, and **Draggable Window** which will be customizable like min/max size, and will have a menu that allow you to **Move**. and **Resize** UI components before a match even start
 - [ ] **Tabholic:** Display your stats in the side of the screen from **Tabinfo**, the stats display will be similar to **Infoholic** hint the name
+- [ ] **CardDataEdit**: A combine version of Rarity Toggle and Theme Toggle, (And `Root` also suggested to be able toggle cards art too, [I might add that too]) which will have a rework `Rarity Toggle` and `Theme Toggle` UI, and might be able detach a card from it [**class**](https://thunderstore.io/c/rounds/p/Root/Classes_Manager_Reborn/)
 - [ ] **BetterCardRenderer:** One of it feature is a **Shader** base UI particle system for extra performance
 - [ ] **ROUNDS BOPL:** A mod that add basically all the [BOPL Abilities](https://bopl-battle.fandom.com/wiki/Abilities) to the game **ROUNDS**
-- [ ] **CardDataEdit**: A combine version of Rarity Toggle and Theme Toggle, (And `Root` also suggested to be able toggle cards art too, [I might add that too]) which will have a rework `Rarity Toggle` and `Theme Toggle` UI, and might be able detach a card from it [**class**](https://thunderstore.io/c/rounds/p/Root/Classes_Manager_Reborn/)
 - [ ] **Tips:** A mod for `Rounds` that show a random "tip" every 5-10 seconds, this is show in the main menu and maybe even lobby menu
 
 ## Cards Ideas:
