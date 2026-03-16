@@ -59,6 +59,11 @@
 - [x] A rework to `Restoration`, instead of **Regen** can heal your **Armors**, any kind of **Healing** can heal your **Armors** once your health is full
 - [x] A idea for already existing card called `Sharper Scythe` have a bleeding effect, the bleeding effect is not lethal but does do damage
 
+**Possible Balance Changes:** 
+- [ ] **Titanium Armor:** Change the armor hp from **250** to **150**, and change the amount of segments from **4** to **3**
+- [ ] **Leaf Skin:** Change the rarity to **Rare**
+- [ ] **Curse of Greed:** Change the guarantees from a **Legendary** to a **Rare
+
 **Name Cards Suggestion:**
 - [ ] **Decrypter:** Restore **3** text for **ANY** "Corrupted" cards, will be an **Uncommon** rarity and only be gotten when "Corrupted Cards Spawn Chance" is above **0**, or have a corrupted cards
 - [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
