@@ -61,8 +61,13 @@
 
 **Possible Balance Changes:** 
 - [ ] **Titanium Armor:** Change the armor hp from **250** to **150**, and change the amount of segments from **4** to **3**
-- [ ] **Leaf Skin:** Change the rarity to **Rare**
-- [ ] **Curse of Greed:** Change the guarantees from a **Legendary** to a **Rare
+- [ ] **Leaf Skin:** Change the rarity to **Rare**, and Changed the **Health** from **-60%** to **-50%**
+- [ ] **Curse of Greed:** Change the guarantees from a **Legendary** to a **Rare**
+- [ ] **Battleforge Armor:** Make the **Battleforge** armor health gain efficiency lower once above player health
+- [ ] **Spiritual Shield:** Changed the **Health** from **25%** to **65%**
+- [ ] **Sabot Rounds:** Change the rarity to **Rare**
+- [ ] **Chain Bullets:** Increase **Chain Length** per cards, changed the **Chain Length** from **30 Meter** to **20 Meter** and add **+20%** damage
+- [ ] **Card Theft:** Making the pick phase cards have the **Cursed Draws** effects, and Limit the cards to choose from to **3** | Also may get rename to **Cursed Theft**
 
 **Name Cards Suggestion:**
 - [ ] **Decrypter:** Restore **3** text for **ANY** "Corrupted" cards, will be an **Uncommon** rarity and only be gotten when "Corrupted Cards Spawn Chance" is above **0**, or have a corrupted cards
