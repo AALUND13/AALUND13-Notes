@@ -53,6 +53,7 @@
 - [x] **Frostbound Bullet:** Uncommon card which make projectile "Freeze" the player slowing the player down and other projectiles can do more damage to the player temporarily
 - [x] **Tungsten Bullets:** More bullet gravity gives more damage minimum multiplier is **1**, also give **+50% Damage** and **+150% Bullet Gravity** this card will be **Uncommon** rarity
 - [x] **Berserk:** Once damage below **50%** survive the shot and activate **Berserk Mode** for **10 seconds** which gives: **+100% Damage**, **+50% Movement Speed**, **+5% Regen**
+- [x] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
 
 **Completed Rework Suggestion:**
 
@@ -61,19 +62,24 @@
 
 **Possible Balance Changes:** 
 - [ ] **Titanium Armor:** Change the armor hp from **250** to **150**, and change the amount of segments from **4** to **3**
-- [ ] **Leaf Skin:** Change the rarity to **Rare**, and Changed the **Health** from **-60%** to **-50%**
 - [ ] **Curse of Greed:** Change the guarantees from a **Legendary** to a **Rare**
 - [ ] **Battleforge Armor:** Make the **Battleforge** armor health gain efficiency lower once above player health
-- [ ] **Spiritual Shield:** Changed the **Health** from **25%** to **65%**
-- [ ] **Sabot Rounds:** Change the rarity to **Rare**
-- [ ] **Chain Bullets:** Increase **Chain Length** per cards, changed the **Chain Length** from **30 Meter** to **20 Meter** and add **+20%** damage
+- [ ] **Spiritual Shield:** Changed the **Health** from **25%** to **50%**, And reduction the rarity to a **Uncommon** from **Rare**
+- [ ] **Picks Party:** Reduction the rarity to a **Rare** or **Exotic** from **Mythical**
+- [ ] **Stunblock Bullets:** Remove the **-1 Ammo** debuff, and add a **+35% Damage** buff
+- [ ] **Devil Souls:** Changed the **Damage Per Death**, and **Health Per Death** to **-50%**
+- [ ] **Chain Bullets:** Increase **Chain Length** per cards, changed the **Chain Length** add **+20%** damage
+- [ ] **Leaf Skin:** Change the rarity to **Rare**, and Changed the **Health** from **-60%** to **-45%**, and changed **Flat Regen** to **10** 
+- [ ] **Sabot Rounds:** Change the rarity to **Rare**, and make **DMG VS Armors** include **Any** armor (Even non-pierceable armor too)
 - [ ] **Card Theft:** Making the pick phase cards have the **Cursed Draws** effects, and Limit the cards to choose from to **3** | Also may get rename to **Cursed Theft**
+- [ ] **Retro Vision:** Change the rarity to **Mythical** from **Rare**
+- [ ] **Life Link:** Change the rarity to **Epic** from **Rare**
+- [ ] **Binding Swap:** Change the rarity to **Epic** from **Rare**
 
 **Name Cards Suggestion:**
-- [ ] **Decrypter:** Restore **3** text for **ANY** "Corrupted" cards, will be an **Uncommon** rarity and only be gotten when "Corrupted Cards Spawn Chance" is above **0**, or have a corrupted cards
-- [ ] **Random Debuff:** A "random" **debuff** card that have randomly generated stats that **ALWAYS** will be a downside, this card will be either **Trinket** or **Common** rarity, this will be a **Curse** card
-- [ ] **Heavy Shots:** Give **+50% Damage** and **+30% Bullet Gravity** this card will be **Common** rarity
 - [ ] **Lance:** On block fire a beam in front of your gun that deals **30%** of your gun damage to players within **10 meters**, this ability will have a cooldown of 0.5 seconds
+- [ ] **Decrypter:** Restore **3** text for **ANY** "Corrupted" cards, will be an **Uncommon** rarity and only be gotten when "Corrupted Cards Spawn Chance" is above **0**, or have a corrupted cards
+- [ ] **Heavy Shots:** Give **+50% Damage** and **+30% Bullet Gravity** this card will be **Common** rarity
 - [ ] **Reinforced Skin:** A card that reduce the percentage damage do to you
 - [ ] **Bloated Block:** Give you **+20%** health when you block, when you heal above your **Max Health** the Overheal will go into a another "Heath Bar" with the same about of your **Max Health**, this ability will have a cooldown of 0.5 seconds
 - [ ] **Segmented Body:** Sliced your health into segments, players will have to go through each segment at a time before killing the player (Similarly to **Titanium Armor** and **Titan**), the downside may just clamp your maximum health to the default
